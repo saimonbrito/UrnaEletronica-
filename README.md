@@ -1,5 +1,5 @@
 # UrnaEletronica-
-um projeto so para exercitar 
-projeto de criaçao de urna Eletronica 
-html/css/js 
+algo para ecerxitar <br/>
+projeto de criaçao de urna Eletronica <br/>
+html/css/js <br/>
 ainda em andamento
